@@ -10,7 +10,7 @@
     </ul>
     
   <h2 id='sobre'>💬 Sobre</h2>
-  <p>Este website foi feito com o intuito de colocar em prática os conhecimentos adquiridos por mim ao longo de meus estudos na área da programação. O projeto consiste em um E-commerce para venda de jogos, utilizando os recursos de Login e Cadastro de usuários, Sessions (PHP), MySQL, JavaScript, HTML, CSS.</p>
+  <p>Este projeto é uma tradução do meu projeto (<a href="https://github.com/RobertSGomes/E-commerceGames">E-commerceGames</a>), feito em PHP, para React. Ele foi criado com o intuito de melhorar meus conhecimentos com esta biblioteca e também para resolver algumas limitações encontradas anteriormente. Como esta é uma tradução, o design e alguns recursos como o cadastro e login de usuários, utilizados no projeto antigo foram mantidos para que a experiência do usuário seja a mesma, mesmo que diversas mudanças tenham acontecido "por baixo dos panos", principalmente no front-end.</p>
   
   <h2 id='requisitos'>🧩 Pré-requisitos para rodar a aplicação</h2>
   <p>Tenha certeza de que seu dispositivo tem o xampp instalado senão instale-o no link:</p>
