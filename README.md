@@ -50,4 +50,4 @@
   <p>Projeto feito somente para Computadores, portanto não foi adicionado o recurso "Responsivo" para estilização de redimencionamento do conteúdo, porém, em uma data posterior adicionarei este recurso.</p>
   <p>Projeto feito exclusivamente para estudos, ou seja, sem visar nenhuma forma de lucro com o mesmo.</p>
   <p>Projeto realizado com a ajuda de Roger da Silva Gomes (GitHub: <a href="https://github.com/RogerSGomes">RogerSGomes</a>).</p>
-  <p>Este projeto está sendo traduzido para a biblioteca React - <a href="https://github.com/RobertSGomes/E-commerceGames-React">repositório no GitHub </a>).</p>
+  <p>Este projeto está sendo traduzido para a biblioteca React - <a href="https://github.com/RobertSGomes/E-commerceGames-React">repositório no GitHub </a>.</p>
